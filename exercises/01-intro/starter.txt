@@ -1,0 +1,8 @@
+Başlangıç için ipucu:
+
+1) Yeni bir dosya oluşturun: `answer.txt`
+2) İçine şu satırı yazın:
+
+   Merhaba, GitHub Eğitim!
+
+3) Kaydedin, commit ve push yapın.
